@@ -3,14 +3,18 @@
 A new Flutter project.
 
 ## Getting Started
+a Stateless Widget in Flutter that displays two images and customized text.
 
-This project is a starting point for a Flutter application.
+Description: Display a title at the top of the page: ""My First Project"" using appBar,
 
-A few resources to get you started if this is your first Flutter project:
+Add two images: One image loaded from the project’s asset files,
+One image loaded from the internet.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Place the images in the same row with a gap between them,
+Below the images, display a text: ""The two images are displayed""
+Customize the text by changing: Font size and font family to 
+Suwannaphum-Regular, Text color ,Make it bold.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ensure there is a gap between the images and the text.
+
+Ensure that the 2 images and the text are placed in the center of the page.
